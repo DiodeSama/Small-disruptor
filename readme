@@ -1,0 +1,5 @@
+High-Performance Low-Latency Trading Engine (Disruptor Pattern)
+
+This project is a high-performance messaging and execution engine implementation based on the Hanguk Quant disruptor_cpp project(link: https://github.com/hangukquant/disruptor_cpp). Special thanks and kudos to Hanguk Quant for the foundational C++ Disruptor primitives.
+
+Here we only keep the dimond topolody and seal everything for further use and add a kill switch
